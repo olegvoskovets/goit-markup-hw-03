@@ -200,7 +200,7 @@ button {
   border-radius: 0px 0px 4px 4px;
 }
 .team-item-title {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 .team-title {
   text-align: center;
@@ -208,8 +208,7 @@ button {
 }
 .footer {
   background: #2e2f42;
-  padding: 100px;
-  padding: 100px;
+  padding: 100px 0;
 }
 .footer-logo {
   font-weight: 800;
@@ -271,5 +270,5 @@ button {
   border-top: none;
 }
 .card-title {
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
